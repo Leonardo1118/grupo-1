@@ -4,8 +4,8 @@ Este es un ejemplo sencillo del uso de repositorios remotos a través de Github
 
 ## Integrantes
 
--Cristian
--German
--Cesar
--Leonardo
--Edgar
+- Cristian
+- German
+- Cesar
+- Leonardo
+- Edgar
