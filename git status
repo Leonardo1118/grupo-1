@@ -1,0 +1,151 @@
+[33mcommit 99c0d63f78a569d6214748c5b7a34e86218a07fd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Cristian Camilo <camil2111@hotmail.com>
+Date:   Wed Mar 26 20:08:22 2025 -0500
+
+    Aporte Cristian
+
+[33mcommit 48bed74965bf4f76ee0c45b12c90059ee3a8e75b[m
+Merge: 0c9f3e4 73852eb
+Author: Cesar Palomino <ingcesar093@gmail.com>
+Date:   Wed Mar 26 19:41:13 2025 -0500
+
+    Merge branch 'main' of https://github.com/Leonardo1118/grupo-1
+
+[33mcommit 0c9f3e45ca24113264b3c3fc2c3a9e3a7beecfc0[m
+Author: Cesar Palomino <ingcesar093@gmail.com>
+Date:   Wed Mar 26 19:40:50 2025 -0500
+
+    Miprimercommitjajaja
+
+[33mcommit 73852eb0e054145d36b575f48a90a4c0eba1193d[m
+Merge: a71fd9d 2727b7d
+Author: German Umana <germanumana1234@gmail.com>
+Date:   Wed Mar 26 19:39:14 2025 -0500
+
+    Merge branch 'main' of https://github.com/Leonardo1118/grupo-1
+
+[33mcommit a71fd9d516f7e3052a42372fd3df3c029c095e8c[m
+Author: German Umana <germanumana1234@gmail.com>
+Date:   Wed Mar 26 19:38:39 2025 -0500
+
+    Primer commitgerman
+
+[33mcommit 2727b7d189fd91e85d720950cd0aab46b7f58ec9[m
+Author: Jose D Libreros <jdlm970319@gmail.com>
+Date:   Wed Mar 26 19:36:42 2025 -0500
+
+    Cambios Readme
+
+[33mcommit fa684be630e904fbf1bf3fdf004de0eb89090def[m
+Author: Jose D Libreros <jdlm970319@gmail.com>
+Date:   Wed Mar 26 19:35:10 2025 -0500
+
+    Readme añadido
+
+[33mcommit afe8194783ebc374577e7ce62c1cae936fc9ffe8[m
+Merge: 9b3c6da 0f241b4
+Author: Jose D Libreros <jdlm970319@gmail.com>
+Date:   Wed Mar 26 19:23:16 2025 -0500
+
+    Merge branch 'main' of https://github.com/Leonardo1118/grupo-1
+
+[33mcommit 0f241b425de7e0529adfc2f2fbf3b51fdc49e23d[m
+Author: edgar joaquin delgado arias <ejdelgado@sena.edu.co>
+Date:   Wed Mar 26 19:22:01 2025 -0500
+
+    segundo commit edgar
+
+[33mcommit 17949fcd1e15854960d0a552a53f2612731d3975[m
+Merge: ed6e5e4 5c742e4
+Author: edgar joaquin delgado arias <ejdelgado@sena.edu.co>
+Date:   Wed Mar 26 19:20:53 2025 -0500
+
+    Merge branch 'main' of https://github.com/Leonardo1118/grupo-1
+
+[33mcommit 9b3c6da761e8763eeb82a8e93320e2e1f2cff87d[m
+Author: Jose D Libreros <jdlm970319@gmail.com>
+Date:   Wed Mar 26 19:19:26 2025 -0500
+
+    Cambios del tutor
+
+[33mcommit 5c742e4a1fdc973cef099804533973026bc96a8f[m[33m ([m[1;32mdevelop[m[33m)[m
+Merge: aa06114 a003543
+Author: carlosA <jareed_95@hotmail.com>
+Date:   Fri Mar 21 20:40:02 2025 -0500
+
+    Merge branch 'main' of https://github.com/Leonardo1118/grupo-1
+
+[33mcommit aa0611427615c86b5b13a9be53a6a5c7ad8a8473[m
+Author: carlosA <jareed_95@hotmail.com>
+Date:   Fri Mar 21 20:38:02 2025 -0500
+
+    Tercer commit
+
+[33mcommit ed6e5e4a7845002bfc5dbe7f3813c183493cfd4e[m
+Author: edgar joaquin delgado arias <ejdelgado@sena.edu.co>
+Date:   Fri Mar 21 20:35:24 2025 -0500
+
+    segundo commit prueba_2edgar
+
+[33mcommit a003543b0049e5696d5cba181a4eebca165238bb[m
+Author: Oscar Zamora <oscar.zamora@logistic-lab.com>
+Date:   Fri Mar 21 22:31:55 2025 -0300
+
+    Prueba
+
+[33mcommit f5d162d0d062dce037eb6c6cc8b665244c3f60d5[m
+Merge: 1445290 e82398e
+Author: carlosA <jareed_95@hotmail.com>
+Date:   Fri Mar 21 20:30:18 2025 -0500
+
+    Merge branch 'main' of https://github.com/Leonardo1118/grupo-1
+
+[33mcommit e82398e23be95446791f1b8ad4bc70f10b6202af[m
+Merge: 8d929ed e37ab5d
+Author: edgar joaquin delgado arias <ejdelgado@sena.edu.co>
+Date:   Fri Mar 21 20:29:06 2025 -0500
+
+    Merge branch 'main' of https://github.com/Leonardo1118/grupo-1
+
+[33mcommit 1445290327c5dc278c20ee8042a705da700918c4[m
+Author: carlosA <jareed_95@hotmail.com>
+Date:   Fri Mar 21 20:28:23 2025 -0500
+
+    Segundo commit Carlos
+
+[33mcommit e37ab5debb7f07aa77723a5e044e2a0c49e81db0[m
+Merge: 47c52ff a4e18fb
+Author: leo <leonardoalvarez1118@gmail.com>
+Date:   Fri Mar 21 20:26:53 2025 -0500
+
+    Merge branch 'main' of https://github.com/Leonardo1118/grupo-1
+
+[33mcommit 47c52ff1afa95c3244a43d1f54fd5e4670ec27b8[m
+Author: leo <leonardoalvarez1118@gmail.com>
+Date:   Fri Mar 21 20:26:41 2025 -0500
+
+    entarda del nombre agregada
+
+[33mcommit 8d929edebe0870c68bbf121f034fbbe5438027d3[m
+Author: edgar joaquin delgado arias <ejdelgado@sena.edu.co>
+Date:   Fri Mar 21 20:25:45 2025 -0500
+
+    primer commit prueba_edgar
+
+[33mcommit a4e18fbcaa988f0a5313ab2db10206e9b9608642[m
+Author: carlosA <jareed_95@hotmail.com>
+Date:   Fri Mar 21 20:25:17 2025 -0500
+
+    Aporte Carlos
+
+[33mcommit 325605ed93c3f825c2722e9764f1a0f41f863b64[m
+Author: Oscar Zamora <oscar.zamora@logistic-lab.com>
+Date:   Fri Mar 21 22:22:15 2025 -0300
+
+    OscarZamora
+
+[33mcommit 0e1c66c8be23e39b19960e7a3786908c0a31270d[m
+Author: leo <leonardoalvarez1118@gmail.com>
+Date:   Fri Mar 21 20:20:47 2025 -0500
+
+    implemenot el hello world
